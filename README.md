@@ -1,6 +1,6 @@
 ### Whatcha doing here? 👋
-Look it's me, and im probably online. Dm me if you want! <br>
-I might not respond right away but I'll reach out to you <br>
+Look it's me, and im probably online. If i'm offline there :arrow_down: then probably I'm sleeping. <br>
+Dm me if you want! I might not respond right away but I'll reach out to you <br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/276265598508466176)](https://discord.com/users/276265598508466176)
 
