@@ -13,7 +13,7 @@ Demo: <br>
 https://user-images.githubusercontent.com/81880849/183623736-bb684d9a-d0c3-4c9c-a18d-6affd7498bfa.mp4
 
 ### <a href="https://github.com/Penelopeep/SetConstellation_Plugin">SetConstellation Plugin</a><br>
-Backport of 1.2.3-dev function to 1.2.2-dev version of Grasscutter <br>
+Plugins that allows for choosing specific constellations <br>
 Demo: <br>
 
 https://user-images.githubusercontent.com/81880849/182039219-eeee80e3-b3ae-4343-ba66-d9f3bd3bcbe7.mp4
