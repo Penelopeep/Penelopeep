@@ -3,23 +3,40 @@ Look it's me, and im probably online. If i'm offline there :arrow_down: then pro
 Dm me if you want! I might not respond right away but I'll reach out to you <br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/276265598508466176)](https://discord.com/users/276265598508466176)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Penelopeep&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-## Check out my <a href="https://github.com/Grasscutters/Grasscutter">Grasscutter</a> plugins while you're here:
-Also if you have idea for new plugin then let me know, maybe I'll be able to help
-### <a href="https://github.com/Penelopeep/SwitchElementTraveller">SwitchElementTraveller</a><br>
-Allows to quickly change traveller element <br>
-Demo: <br>
+Something about me:
+```python
 
-https://user-images.githubusercontent.com/81880849/183623736-bb684d9a-d0c3-4c9c-a18d-6affd7498bfa.mp4
+class Penelopeep:
+  def __init__(self):
+    self.status = "Lazy"
+    self.is_learning = False
+    self.current_project = None
 
-### <a href="https://github.com/Penelopeep/SetConstellation_Plugin">SetConstellation Plugin</a><br>
-Plugins that allows for choosing specific constellations <br>
-Demo: <br>
+  def get_languages:
+    langs: dict = {
+      "Python" : "My beloved",
+      "Java" : "Love/Hate relationship",
+      "C" : "Let it die already",
+      "C++" : "Better than C",
+      "JavaScript" : "I hate it"
+    }
+    return langs
 
-https://user-images.githubusercontent.com/81880849/182039219-eeee80e3-b3ae-4343-ba66-d9f3bd3bcbe7.mp4
+  def get_projects:
+    repos: dict = {
+      "Grasscutter-Plugins" : {
+        "SwitchElementTraveller" : "https://github.com/Penelopeep/SwitchElementTraveller",
+        "ToggleConstellations" : "https://github.com/Penelopeep/ToggleConstellation",
+        "CharacterBuilder" : "https://github.com/Penelopeep/CharacterBuilder",
+        "GenshinImporter" : "https://github.com/Penelopeep/GenshinImporter"
+      }
+    }
+    return repos
 
-### <a href="https://github.com/Penelopeep/TeamMerge">TeamMerge</a><br>
-Allows to quickly set up large teams with single command and in-game party manager <br>
-Demo: <br>
 
-https://user-images.githubusercontent.com/81880849/181936815-bb72f3b6-d05f-40a0-a020-64f204ba98ba.mp4
+```
+
+
+I'm just a lazy guy who likes to code sometimes.
